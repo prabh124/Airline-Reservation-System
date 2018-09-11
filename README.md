@@ -1,0 +1,2 @@
+# Airline-Reservation-System
+The project created at hand is an Airline Reservation System which is outputted onto the console. A menu is displayed and users can pick from 3 options. If the input is 1, a random first class seat (1-5) will be booked. If first class becomes full, the user will be prompted to book an economy class seat, and vice versa if option 2 (seats 6-10) is chosen and becomes full. Option 3 will output the array and show which seats are reserved and unreserved. When the flight is booked the reservation status will be displayed and the program will exit.
